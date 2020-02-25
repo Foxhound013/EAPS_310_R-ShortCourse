@@ -11,5 +11,16 @@
   - logical
     - These are your boolean values or TRUE/FALSE values.
 
+# Data Structures in R
+  There are a variety of data structures in R. How do these differ from data types in R? A data structure is intended to hold a group of data. In some cases the data will be of various types and in others they will all be the same type.
 
+  The common structures in R are as follows:
+  - vector
+  - list
+  - matrix
+  - data frame
+  - factors
+  
+  The only data structure that I'm going to cover at length here is the data frame. All of these strucutres are important and useful but you will be working with data frames pretty regularly in this class.
 
+  The data frame can be thought of much like an excel sheet. It's a grouping of columns and rows where each column is a variable. Each column has its own data type but a single dataframe can have columns of multiple data types.

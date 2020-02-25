@@ -8,7 +8,7 @@
   For many of you this class will be the first time you've interacted with R, and that's okay! The aim of this short course in R is to get you up to speed with the basics and on your way to completing assignments efficiently in R as well as giving you the tools to use R elsewhere in your career as you move forward. This document will lay out the short course for you with short descriptions of each section.
 
 ## 1. Getting Started with R
-  This section will take you through installing R and RStudio. You don't have to use RStudio for programming in R but it'll save you a lot of time and be very helpful to you along the way. In this section, we will breifly discuss the use of R Markdown as well as R Projects.
+  This section will take you through installing R and RStudio. You don't have to use RStudio for programming in R but it'll save you a lot of time and be very helpful to you along the way.
 
 ## 2. Data types and Structures in R
   The goal of this section is to give you the basics of data types and structures available in R.
