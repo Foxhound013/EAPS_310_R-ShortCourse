@@ -7,3 +7,7 @@ Once R finishes downloading, run the installer with the default settings and R w
 The next step will be setting up our code editing environment, R Studio.
 
 # Installing R Studio
+Navigate to https://rstudio.com/products/rstudio/download/#download and select the installer that matches your OS be it Linux, MacOS, or Windows. Follow the steps provided by the installer and you'll be up and running with RStudio in no time. RStudio should detect the install location of R on your system.
+
+# Rejoice!
+Hopefully everything has went well for you up to this point. If you've run into problems, try searching your problem online first. It is very likely that someone has had your same problem before. If you still can't sort it out, don't hesitate to reach out to the instructor or teaching assistant.
