@@ -10,7 +10,7 @@
 ## 1. Getting Started with R
   This section will take you through installing R and RStudio. You don't have to use RStudio for programming in R but it'll save you a lot of time and be very helpful to you along the way.
 
-## 2. Data types and Structures in R
+## 2. Data Types and Structures in R
   The goal of this section is to give you the basics of data types and structures available in R.
 
 ## 3. Common Packages in R
