@@ -21,3 +21,6 @@
 
 ## 5. Visualization Options in R
   This will be the final section in this short course. Various plotting options will be presented and some of the basics will be covered.
+
+## Note to the Student
+  If you come across materials that you think should be a part of the course or have tweaks you'd like to see incorporated into the course feel free to make a pull request! This is a great way to contribute to your own learning as well as your classmates. In addition to furthering you and your classmates learning, you'll be building your GitHub history. This can be helpful when applying for jobs, you can point potential employers to the work and projects you've done and contributed to.

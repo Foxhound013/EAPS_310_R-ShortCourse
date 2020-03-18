@@ -14,3 +14,5 @@
 
 # One Quick Tip Before We Go
   If you've spent any time at all looking at R code, you've probably noticed the super strange assignment operator (i.e. the <- thingy). I beleive in most scenarios, you can simply use = in its place but there may be certain scenarios where this is not the case. In any case, its best to adopt the standards of the language your working in. Typing out the assignment operator is somewhat painful but there is a shortcut that makes it faster, hitting the alt and - key at the same time will result in the assignment operator. It becomes second nature pretty quickly once you start using it. 
+  
+  I know I said one quick tip, but before we go, here's one more. If you want to access the documentation of a function, just use `?functionName`. For example, if you want to know about the parameters to give to read.csv (a function to read csv data in), just enter `?read.csv` and R will provide you the documentation. Okay, now on to the rest of the tutorial!
