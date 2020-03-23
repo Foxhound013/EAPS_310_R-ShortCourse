@@ -26,8 +26,8 @@ plot(asos$tmpf, asos$dwpf,
      main='Temperature Vs Dewpoint Temperature',
      xlab='Air Temperature (F)',
      ylab='Dewpoint Temperature (F)',
-     xlim=c(0,70),
-     ylim=c(0,70),
+     xlim=c(-5,65),
+     ylim=c(-5,65),
      )
 # lets add a grid to make it a little clearer looking
 grid()
