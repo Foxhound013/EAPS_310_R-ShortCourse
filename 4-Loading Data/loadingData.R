@@ -88,7 +88,7 @@ manau.lao_onlineTable <- read.table('ftp://aftp.cmdl.noaa.gov/products/trends/co
 manau.lao_onlineDelim <- read.delim('ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt')
 # Yep, that didn't work at all. Notice the one variable it pulled. Let's try skipping a few lines
 # and specifying column names.
-manau.lao_onlineCsv <- read.delim('ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt',
+manau.lao_onlineDelim <- read.delim('ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt',
                                   skip=49, header=F, sep='\t',
                                   col.names=c('year','month','day','decimal', 'ppm', 'days', 
                                               'one_years', 'ten_years', 'since1800')

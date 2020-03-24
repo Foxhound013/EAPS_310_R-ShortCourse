@@ -51,7 +51,7 @@ ggplot(data=asos, mapping=aes(x=tmpf, y=dwpf)) +
   coord_cartesian(xlim=c(-5,65), ylim=c(-5,65)) +
   xlab('Air Temperature (F)') + ylab('Dewpoint Temperature (F)') +
   ggtitle('Air Temperature Vs Dewpoint Temperature')
-ggsave('./figures/ggplot1.png', dpi=220, width=8.5, height=6)
+ggsave('./figures/ggplot2.png', dpi=220, width=8.5, height=6)
 
 # The warning is nothing to worry about it. It's just trying to make us aware that we could be doing something
 # we didn't intend to do.

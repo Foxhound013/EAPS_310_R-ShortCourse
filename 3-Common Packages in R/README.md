@@ -3,7 +3,7 @@
 
 ## Installing and Loading Packages
   Getting packages installed in R is super simple! 
-  `install.packages('NameOfPackage)`
+  `install.packages('NameOfPackage')`
   Fill in the name of the package you want installed and hit 'Enter'. R will take care of locating the package in question and get it all set up for you. If for some reason you're prompted as to whether or not you want to install the package in your own repository of packages (or something to that effect), saying yes will be fine. Now that you've got your package installed, you can load it into an R script like so `library(NameOfPackage)` (notice the lack of quote marks, you don't have to use quotations when you load a library but you do when installing). Once you do this, you'll have access to all of the funcitons in the associated package.
 
   The access to these other functions is precisely the power of R and why you'll want to leverage the packages available to you. Given R's prominence as a statistical programming language as well as in academia, many statistical methods have been packaged for use in R, even relatively new ones!
